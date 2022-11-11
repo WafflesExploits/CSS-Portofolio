@@ -12,9 +12,11 @@ h1 {
 }
 
 hr{
-  border: dotted grey 6px;
+  border: dotted grey 8px;
   border-bottom: none;
   width: 4%;
+  margin: 4rem auto;
+  align-self: center;
 }
 h2 {
   color: #66BFBF;
@@ -31,6 +33,10 @@ h3 {
 .span {
   text-decoration: underline;
   color: #66bf93;
+}
+
+.span2{
+  margin-top: 0;
 }
 
 .topDiv {
