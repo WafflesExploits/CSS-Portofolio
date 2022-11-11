@@ -12,9 +12,9 @@ h1 {
 }
 
 hr{
-  border-style: dotted;
-  color: grey;
-  width: 50px;
+  border: dotted grey 6px;
+  border-bottom: none;
+  width: 4%;
 }
 h2 {
   color: #66BFBF;
