@@ -7,7 +7,7 @@
   > This website was created as a exercise to practice my CSS & HTML.
 </h3>
 <h3 dir="auto" align="center">
-  > Live website <a href="https://wafflesexploit.github.io/CSS-Portofolio/" >here</a>. 
+  > Live website <a href="https://wafflesexploits.github.io/CSS-Portofolio/" >here</a>. 
 </h3>
 
 ## Table of Contents
